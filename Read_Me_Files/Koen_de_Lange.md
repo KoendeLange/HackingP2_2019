@@ -1,0 +1,325 @@
+
+# HACKING
+
+
+“Hacking is changing the purpose of a machine or product that differs from the original purpose of its system.”
+
+
+The hacker searches for a representation of what it is to be a hacker in the identities of other classes.
+ 
+Whatever code we hack, be it programming language, poetic language, math or music, curves or colorings, we create 
+the possibility of new things entering the world.
+⋅⋅⋅Where in that information new possibilities for the world are produced, there are hackers hacking the new out of the old.
+
+To the hacker, what is represented as being real is always partial, limited, perhaps even false.
+
+While hackers create these new worlds, we do not possess them.
+
+We do not own what we produce - it owns us.
+)
+We transform the world, observe things others can’t. 
+)
+By its very nature, the act of hacking overcomes the limits property imposes on it.
+
+The hack as new information is produced out of already existing information.
+
+Through the production of new forms of abstraction, the hacker class produces the possibility of the future - not just 
+‘the’ future, but an infinite possible array of futures, the future itself as virtuality.
+
+Like all forms of property, intellectual property enforces a relation of scarcity.
+
+The hack as new information is produced out of already existing information. This gives the hacker class 
+an interest in its free availability more than in an exclusive right. The immaterial nature of information means that the possession by one of information need not deprive another of it.
+
+To the extent that the hack embodies itself in the form of property, it gives the hacker class interests 
+quite different from other classes, be they exploiting or exploited classes. 
+
+The hacker searches for a representation of what it is to be a hacker in the identities of other classes.!
+
+The hacker class has produces itself as itself, but not for itself
+
+It does not (yet) possess a consciousness of its consciousness.
+
+Hacking is an attitude - it’s a way of seeing the world differently
+
+
+
+Hacking is a caring process.
+
+Different texts: 
+
+Group 1
+justify actions: Community, individual / collective, Online
+
+Group 2 
+Whatever code we hack, be it programming language, poetic language, math or music, curves or colorings, we create 
+the possibility of new things entering the world.
+
+Group 3
+Hacking is care 
+
+Group 4 
+technological society, deconstruction. 
+Observe, manipulating. Human behavior.
+
+Group 5
+New possibilities, cut across race/ abilities / geography ; hack as improve and understand 
+not be accepted as fixed. - From material conditions to social form, biological forms. 
+
+
+
+
+—————————————————————————————
+
+
+
+
+OBSERVING
+
+
+- It’s a way of interpreting the relationship between and of things.
+The difference between looking, watching and seeing., 
+observing, viewing and intervening.
+
+-Be aware of your surroundings
+
+
+Modes of inspection: observing, noticing and intervening:
+
+To See – A baby sees. Whoever has an instrument such as eyes, perceives the three-dimensional world through them.
+To Look – Apparently, he/she begins to notice phenomena, and to distinguish between them, and it is reflected in his/her eyes. (focus)
+To Watch –If it were up to me, I would have written point-of-viewing. The brains begin to organize one’s sight.
+To Observe – This is the ultimate level, in which sight becomes intelligence, an ordered and lucid internal knowledge.
+To View – (by spectators), on the other hand, is a way of looking that involves a threat, an expectation...  Source: Noa Eshkol, In Her Words
+
+
+
+.Affordences 
+
+James Gibson - affordances
+Means the ways in which you can interact with something. So, a chair not only “affords” being “sat on,” but also “thrown,” “
+stood on,” etc.
+
+Affordances_James Gibson = The possibilities of interaction between the user and the object / thing.
+
+Don Norman - The Design of Everyday Things
+Thus, an object’s affordances depend on users’ physical capabilities and their goals and past experiences.
+A chair only affords “sitting,” because past experience supports that action.
+
+Affordances that you can perceive with an object/thing
+Affordances_Don Norman = The experiences between the user and the object / thing create the expectations 
+of the interaction between the user and the object / thing.
+
+
+"...an affordance is neither an objective property nor a subjective property; or it is both if you like. 
+An affordance cuts across the dichotomy of subjective-objective and helps us to understand its inadequacy. 
+It is equally a fact of the environment and a fact of behavior. It is both physical and psychical, yet neither. 
+An affordance points both ways, to the environment and to the observer."
+- James J. Gibson, The Ecological Approach to Visual Perception: Classic Edition
+
+Awerness:
+
+Who is using the Thing/Object?
+What is a different way of using a Thing or an Object?
+What else can I do with the thing/ Object?
+
+
+
+.Interfaces
+
+The common boundary of (media) people and (media) apparatus is one example of what we call an interface. 
+
+What is an interface?
+
+
+- interface in bio hacking, or medicanal use; it connects the digital with the organic.
+
+- Graphical user interface
+
+- TUI - text editor GUI graphic - user interface Fluid Interfaces MIT - Hybrid
+
+Book: Galloway: Interface Effect
+
+Interfaces are not things, but rather process that effect a result of whatever kind. 
+The interface between systems
+
+Media vs Interface / Marshall McLuhan vs A.Gallowa 
+Norman Rockwell triple self portrait.
+
+
+
+.Anatomy 
+Categorization:
+
+"Anatomy is a branch of natural science which deals with the structural organization of living things."
+— Merriam Webster Dictionary
+Anatomy = to cut open and see what’s inside.
+
+Hacking advocates: the need to examine the ideas we  use to organize knowledge and inquiry, and to propose, 
+advocate, or refute theories of knowledge’. 
+- `Elegant anotomy, marieke M.A. Hendriksen
+
+Anatomy is a form of interference ( intervering with a system ) 
+
+
+
+Observation exercise - Inspection Tool
+Assignment:
+
+Individual:
+
+05 min — place the object in front of you; open and close your eyes like 'flashes', repeat this exercise from 3 different viewpoints;
+
+10 min — find a confortable position in relation to the object; close your eyes: use tactile movements, feel beyond the shape: the 
+temperature, sounds, dimensions, compare its properties with the ones of your own body; change again the position of your body 
+(altering possible trajectories); be aware of the negative space and how the objects relates to its surroundings.
+
+10 min — describe the object from your point of view; what are its performative qualities and affordances 
+(sustained/ contained/ continuous/ discrete/ allows for a sequence of actions/ operational); in which context can it be used?
+
+10 min — describe the object from the point of view of the object; build a small glossary for the object — "as if it would 
+speak and have a language of its own"; you can look into references and find "members of the same family";
+
+05 min — reflect: make notes on the different processes/ procedures it allows you to undertake; what methods of observation 
+and annotation did you use? is there an alternative to them?
+
+
+15 min — swap objects: repeat the individual exercise;
+
+In a group:
+
+present — what / why did you bring that object?
+discuss — what are the differences between the objects?
+share — your annotations methods;
+
+
+
+Outcome:
+
+Protractor observations:
+
+Triangle
+Flat 
+Curved edge to minimize the service resistance 
+Color : white, green, yellow
+Transparant 
+Thin
+Straight lined
+Cutting 
+Pyramid 
+Pointy
+Stingy 
+Clicking sound of plastic
+Shiney 
+Light weight 
+Purpose : Measuring degrees and length 
+Ink on object will slowly fade away
+360 degrees and 90 degrees 
+Target - 14 cm
+Mirror in combination with light
+Deadly stabbing tool or throwing
+Placed on a image the object transforms the image
+
+
+Scissor:
+
+Material: Rvs, Rubber, plastic
+Color: Black, yellow, grey, white
+Sharp
+Engraved
+Satisfying sound
+Stabbing 
+Throwing
+Not sustainable
+Poor construction
+Rilling paper
+screw
+Needs sharpening
+Cutting tool
+Creating engraved circles
+Angled 
+Shiny
+Pointy 
+Rough sound
+Not fitted for my hand
+
+
+
+
+—————————————————————————————
+
+
+
+Hacking Examples in Product design:
+
+5:08 - 6:23 _ BBC - The Genius of Design 1 of 5 (Legendado)
+https://www.youtube.com/watch?v=1ofW8yT6aoM
+
+
+Olivier van Herpt - Solid Vibrations
+http://oliviervanherpt.com/solid-vibrations/
+
+Atelier NL - Knitting Lamp
+http://ateliernl.com/projects/knitting-lamp
+
+Studio Drift - MATERIALISM
+http://www.studiodrift.com/work#/materialism/
+
+Studioroosegaarde - van Gogh Path
+https://www.studioroosegaarde.net/project/van-gogh-path
+
+Studioroosegaarde - Sustainable dance floor
+https://www.studioroosegaarde.net/project/sustainable-dance-floor
+
+
+
+—————————————————————————————
+
+Information Choreocgraphy -  joana chicau
+
+"Choreography has become a metaphor for dynamic constellations of any kind consciously choreographed or not, self-organizing 
+or artificially constructed. (...) If the world is approached as a reality constructed of interactions, 
+relationships, constellations and proportionalities and choreography is seen as the aesthetic practice of setting 
+those relations or seeing the conditions for those relations to emerge. Choreographic knowledge gained in the field 
+of dance or harvested from perceived patterns in nature should be transferrable to other realms of life." 
+Michael Klien, Steve Valk: What do you choreograph at the end of the world? 
+
+= “writing movement” 
+
+Choreography in Greek is spelled χορογραφια from χορός (dance) + γραφια (writing) 
+
+However looking up the etymology of the word χορός in Greek, sources reveal that the word is probably 
+formed either from χειρ/χερι (hand) or χώρος (space) 
+
+= “space” is translated to greek as ‘chora’, which itself comes from ‘choreo’, which primarily means 
+to give room, make space, (..) ‘chora’ is then space in the sense of gap, scope, distance, etc.. at Bollnow, 
+Otto Friedrich. Human Space. London: Hyphen, 2011. Print. 
+
+I thus define the concept of the ‘choreo-graphic’ as a writing space: new shared vocabularies, 
+statements, propositions > discourse. 
+A space for re-writing more critical, open, experimental and inclusive notions on movement and body(ies). 
+
+(Choreographic language + Programming language) = Live Performance 
+A hybrid form of composition, combining principles of choreography with the formal structures of web-coding.    Choreographies are socio-cultural constructions, critics to current systems, political positions or dispositions, alternatives to move or counter-move. Each epoch, each place, each culture, each instance of choreography resists and reform previous conceptions of its definition. As in choreography, web-design deals with space, time and movement constructs. It has been defining ways of moving collectively or individually, through fluid nonetheless complex landscapes of information displays, networked spaces, and multi-media environments.   In a time of networked mediation how can we interfere with the default condition of the human-computer interface? How can we embody transgression and choreograph countermoves in response to a computational infrastructure that surrounds us?  
+
+Lesson from  joana chicau
+
+1.  Laying around for 15 min in the classroom and consciously breathing trough our body’s 
+and visualizing and creating awareness what happens when we for example move one muscle in our body. 
+When moving your finger you can feel the muscles in your forearm.
+
+2. After those 15 min we walked inside of the classroom to get a better understanding on how we as humans 
+get influenced by a rhythm or our surroundings. 
+
+3. The idea of this exercise was Patterns have unconsious influence on our life, like how we moved 
+around the room, but also the way traffic has a system in a city.
+
+Choreographie: percieved patterns in nature.
+Writing movement
+Think of bees or ants that work together. 
+
+
+—————————————————————————————
+
+
+Absent at varia. 
